@@ -1,0 +1,5 @@
+# SKR MINI E3 V1.2
+
+
+## MCU 
+Model : STM32F103RCT6
