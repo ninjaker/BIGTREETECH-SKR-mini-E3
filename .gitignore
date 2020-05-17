@@ -119,3 +119,5 @@ cmake-build-*
 .pydevproject
 .settings
 .classpath
+skr-mini-e3-V1-2.code-workspace
+firmware/V1.2/Marlin-2.0.x-SKR-Mini-E3-V1.2/config/
